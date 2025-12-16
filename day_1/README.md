@@ -1,3 +1,4 @@
+
 # 🎄 Python advent – DEŇ 1
 
 ## 🎅 Téma: Podmienky a rozhodovanie
@@ -30,3 +31,5 @@ Napíš program, ktorý:
 ### Pomocná kostra (nepovinná)
 
 `skutky = int(input("Koľko dobrých skutkov si urobil? ")) # sem doplň if / elif / else`
+
+ [RIGHT ANSWER](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_1/day01_Bol%20si%20dobr%C3%BD.py)
