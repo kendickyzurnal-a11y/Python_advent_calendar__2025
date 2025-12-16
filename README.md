@@ -1,99 +1,61 @@
 
+  
 # 🎄 Python advent – 8 dní (normálne tempo)
 
+  
+
 **
+
+  
 
 **Cieľ:**
 
- - upevniť to, čo už vieš
-   
   
- -  jemne rozšíriť obzory (slovníky, n-tice, čas, zvuk, kreslenie,
-   tkinter)
-   
-   
- - všetko v vianočnom duchu
 
-   
-   
+- upevniť to, čo už vieš
 
- - niektoré úlohy polopripravené (nebudeš písať všetko od nuly)
+- jemne rozšíriť obzory (slovníky, n-tice, čas, zvuk, kreslenie,
+
+tkinter)
+
+- všetko v vianočnom duchu
+
+  
+
+  
+
+- niektoré úlohy polopripravené (nebudeš písať všetko od nuly)
+
+  
 
 **
+
+  
 
 ## 📅 Prehľad 8 dní
 
+  
+
 **
-**🎁 Deň 1 – Opakovanie + logika**
 
- - premenné, print, input
+**🎁 [Deň 1 – Opakovanie + logika**](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_1/)
 
-    
+  
 
- - if / elif / else
- - malá logická úloha (vianočné rozhodovanie)
+- premenné, print, input
+
+  
+
+  
+
+- if / elif / else
+
+- malá logická úloha (vianočné rozhodovanie)
+
+  
 
 **🎁 Deň 2 – Cykly v praxi**
 
- - for, while
+  
 
- - počítanie, opakovanie
-
- - „rozsvietenie“ vianočných svetielok
-
-**🎁 Deň 3 – Zoznamy + n-tice**
-
- - list vs tuple
-
- - prechádzanie cyklom
-
- - vianočné položky a darčeky
-
-**🎁 Deň 4 – Slovníky**
-
- - dict
-
- - kľúč → hodnota
-
- - Mikulášov zoznam (meno → darček)
-
-**🎁 Deň 5 – Funkcie (upevnenie)**
-
- - vlastné funkcie
-
- - parametre, návratová hodnota
-
- - „elfské pomocné funkcie“
-
-**🎁 Deň 6 – Čas**
-
- - modul time
-
- - oneskorenie (sleep)
-
- - jednoduché odpočítavanie do Vianoc
-
-**🎁 Deň 7 – Kreslenie alebo zvuk**
-
- - turtle alebo jednoduchý zvuk
-
- - malý vizuálny / zvukový efekt
-
- - polopripravený kód
-
-**🎁 Deň 8 – Mini projekt 🎄**
-
- - spojenie viacerých vecí
-
- - malý „vianočný program“
-
- - žiadny stres, veľa pomoci
-
-## 🔔 Ako budeme fungovať
-
- - stručne vysvetlím tému
- - ukážem príklad
- - dám vianočnú úlohu
-
-
- - ~~ak chceš → skontrolujem riešenie alebo poradím~~
+- for, while
