@@ -91,4 +91,6 @@ Príklad:
 
 `print(f"Svetielko {i+1} svieti 💡")` 
 
-
+[INSTRUCTIONS FILE](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_2/day02.py)
+[RIGHT ANSWER](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_2/day02_Rozsvie%C5%A5%20strom%C4%8Dek_simple.py)
+[RIGHT ANSWER (with bonus)](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_2/day02_Rozsvie%C5%A5%20strom%C4%8Dek_bonus.py)
