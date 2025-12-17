@@ -1,3 +1,4 @@
+
   
 
 # 🎄 Python advent – 8 dní (normálne tempo)
@@ -84,7 +85,7 @@ tkinter)
 
   
 
-**🎁 Deň 2 – Cykly v praxi**
+[**🎁 Deň 2 – Cykly v praxi**](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_2/)
 
   
 
@@ -163,4 +164,4 @@ Každý deň:
   2.  ukážem príklad
 3.  dám **vianočnú úlohu**
         
- 4.  ak chceš → skontrolujem riešenie alebo poradím
+ ~~4.  ak chceš → skontrolujem riešenie alebo poradím~~
