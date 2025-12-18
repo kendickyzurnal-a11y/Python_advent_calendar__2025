@@ -92,3 +92,5 @@ Príklad:
 ----------
 
 [INSTRUCTIONS FILE](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_3/day03.py)
+[RIGHT ANSWER](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_3/day03_Viano%C4%8Dn%C3%BD%20zoznam%20dar%C4%8Dekov_simple.py)
+[RIGHT ANSWER (with bonus)](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_3/day03_Viano%C4%8Dn%C3%BD%20zoznam%20dar%C4%8Dekov_bonus.py)
