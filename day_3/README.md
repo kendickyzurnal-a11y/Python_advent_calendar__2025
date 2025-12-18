@@ -91,14 +91,4 @@ Príklad:
 
 ----------
 
-Ak chceš:
-
--   pošli mi riešenie
-    
--   alebo napíš **„ukáž riešenie“**
-    
--   alebo pokračuj zajtra:  
-    👉 **Python advent – deň 4**
-    
-
-Ideš výborne, toto je presne správne tempo 👨‍💻🎄🐍
+[INSTRUCTIONS FILE](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_3/day03.py)
