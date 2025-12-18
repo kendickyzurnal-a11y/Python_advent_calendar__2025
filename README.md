@@ -97,7 +97,7 @@ tkinter)
 -   „rozsvietenie“ vianočných svetielok
     
 
-### 🎁 Deň 3 – Zoznamy + n-tice
+[ 🎁 **Deň 3 – Zoznamy + n-tice**](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_3/)
 
 -   `list` vs `tuple`
     
@@ -165,3 +165,4 @@ Každý deň:
 3.  dám **vianočnú úlohu**
         
  ~~4.  ak chceš → skontrolujem riešenie alebo poradím~~
+
