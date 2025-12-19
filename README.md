@@ -106,7 +106,7 @@ tkinter)
 -   vianočné položky a darčeky
     
 
-### 🎁 Deň 4 – Slovníky
+### [🎁 Deň 4 – Slovníky](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_4/)
 
 -   `dict`
     
@@ -165,4 +165,3 @@ Každý deň:
 3.  dám **vianočnú úlohu**
         
  ~~4.  ak chceš → skontrolujem riešenie alebo poradím~~
-
