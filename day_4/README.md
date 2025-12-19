@@ -87,3 +87,8 @@ Napíš program, ktorý:
 ----------
 
 [INSTRUCTIONS FILE](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_4/day04.py)
+
+
+[RIGHT ANSWER](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_4/day04_Mikul%C3%A1%C5%A1ov%20zoznam_simple.py)
+
+[RIGHT ANSWER (with bonus)](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_4/day04_Mikul%C3%A1%C5%A1ov%20zoznam_bonus.py)
