@@ -125,7 +125,7 @@ tkinter)
 -   „elfské pomocné funkcie“
     
 
-### 🎁 Deň 6 – Čas
+### [🎁 Deň 6 – Čas](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_6/)
 
 -   modul `time`
     
