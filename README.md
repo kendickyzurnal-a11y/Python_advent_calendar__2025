@@ -1,4 +1,5 @@
 
+
   
 
 # 🎄 Python advent – 8 dní (normálne tempo)
@@ -115,7 +116,7 @@ tkinter)
 -   Mikulášov zoznam (meno → darček)
     
 
-### 🎁 Deň 5 – Funkcie (upevnenie)
+### [🎁 Deň 5 – Funkcie (upevnenie)](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_5/)
 
 -   vlastné funkcie
     
