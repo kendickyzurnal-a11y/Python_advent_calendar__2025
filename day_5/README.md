@@ -1,4 +1,5 @@
 ## 🎄🐍 **Python advent – DEŇ 5** 🐍🎄
+
 **Téma: Funkcie (upevnenie a poriadok v kóde)**
 
 Funkcie už **poznáš**, dnes si ich hlavne **utriedime v hlave** a použijeme ich prakticky.
@@ -97,3 +98,8 @@ Príklad výstupu:
 ----------
 
 [INSTUCTIONS FILE](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_5/day05.py)
+
+
+[RIGHT ANSWER](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_5/day05_Elfsk%C3%A1%20tov%C3%A1re%C5%88_simple.py)
+
+[RIGHT ANSWER (with bonus)](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_5/day05_Elfsk%C3%A1%20tov%C3%A1re%C5%88_bonus.py)
