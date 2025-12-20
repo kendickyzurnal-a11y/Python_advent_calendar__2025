@@ -1,4 +1,4 @@
-🎄🐍 **Python advent – DEŇ 5** 🐍🎄  
+## 🎄🐍 **Python advent – DEŇ 5** 🐍🎄
 **Téma: Funkcie (upevnenie a poriadok v kóde)**
 
 Funkcie už **poznáš**, dnes si ich hlavne **utriedime v hlave** a použijeme ich prakticky.
