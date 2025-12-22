@@ -166,3 +166,6 @@ Každý deň:
 3.  dám **vianočnú úlohu**
         
  ~~4.  ak chceš → skontrolujem riešenie alebo poradím~~
+ _________
+
+[BONUS PROJECT](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/project/)
