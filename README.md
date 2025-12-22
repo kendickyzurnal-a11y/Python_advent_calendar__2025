@@ -143,7 +143,7 @@ tkinter)
 -   polopripravený kód
     
 
-### 🎁 Deň 8 – Mini projekt 🎄
+### [🎁 Deň 8 – Mini projekt 🎄](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_8/)
 
 -   spojenie viacerých vecí
     
