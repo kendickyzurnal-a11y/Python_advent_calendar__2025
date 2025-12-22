@@ -134,7 +134,7 @@ tkinter)
 -   jednoduché odpočítavanie do Vianoc
     
 
-### 🎁 Deň 7 – Kreslenie alebo zvuk
+### [🎁 Deň 7 – Kreslenie alebo zvuk](https://kendickyzurnal-a11y.github.io/Python_advent_calendar__2025/day_7/)
 
 -   `turtle` **alebo** jednoduchý zvuk
     
